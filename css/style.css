@@ -145,6 +145,7 @@ a:focus {
 .custom_nav-container .nav_search-btn {
   background-image: url(../images/search-icon.png);
   background-size: 22px;
+  
   background-repeat: no-repeat;
   background-position-y: 7px;
   width: 35px;
@@ -342,7 +343,7 @@ a:focus {
 }
 
 .contact-form input::placeholder {
-  color: #fff;
+  color: #232323;
 }
 
 .contact-form button {
