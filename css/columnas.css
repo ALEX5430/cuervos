@@ -1,0 +1,13 @@
+.contenido-columnas {
+    width: 100%;
+}    
+
+.contenedor-max-columnas {
+        margin: 0 auto;
+        max-width: 1100px;
+ }
+
+ .seccion-columnas {
+        align-items: center
+        display: flex;
+}
